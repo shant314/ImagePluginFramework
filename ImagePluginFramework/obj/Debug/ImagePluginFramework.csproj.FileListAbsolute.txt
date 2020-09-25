@@ -1,0 +1,10 @@
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\ImagePluginFramework\bin\Debug\ImagePluginFramework.exe.config
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\ImagePluginFramework\bin\Debug\ImagePluginFramework.exe
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\ImagePluginFramework\bin\Debug\ImagePluginFramework.pdb
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\ImagePluginFramework\bin\Debug\BusinessLayer2.dll
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\ImagePluginFramework\bin\Debug\BusinessLayer2.pdb
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\ImagePluginFramework\obj\Debug\ImagePluginFramework.csprojAssemblyReference.cache
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\ImagePluginFramework\obj\Debug\ImagePluginFramework.csproj.CoreCompileInputs.cache
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\ImagePluginFramework\obj\Debug\ImagePluginFramework.csproj.CopyComplete
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\ImagePluginFramework\obj\Debug\ImagePluginFramework.exe
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\ImagePluginFramework\obj\Debug\ImagePluginFramework.pdb

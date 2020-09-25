@@ -1,0 +1,5 @@
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\BusinessLayer2\bin\Debug\BusinessLayer2.dll
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\BusinessLayer2\bin\Debug\BusinessLayer2.pdb
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\BusinessLayer2\obj\Debug\BusinessLayer2.csproj.CoreCompileInputs.cache
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\BusinessLayer2\obj\Debug\BusinessLayer2.dll
+C:\Users\QuantumLP\source\repos\ImagePluginFramework\BusinessLayer2\obj\Debug\BusinessLayer2.pdb

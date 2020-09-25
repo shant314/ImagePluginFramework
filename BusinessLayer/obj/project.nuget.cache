@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbQnSJ7tP/SO7qeSfK0dKFABZu3lTcyYVyu7q3p4QB4NaWU5wcI7ML2ECQk8ycwki45ORd7EoVw7Cvy9iJY8NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\QuantumLP\\source\\repos\\ImagePluginFramework\\BusinessLayer\\BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\QuantumLP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\QuantumLP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
